@@ -6,3 +6,5 @@ This is a simple program that allows the user to look up the weather information
 AS a traveler
 I WANT to see how the weather is 
 SO THAT I can plan a trip accordingly
+
+Link to deployment app: https://dlellis07.github.io/WeatherDashboard
